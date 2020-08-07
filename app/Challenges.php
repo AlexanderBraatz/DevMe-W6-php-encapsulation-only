@@ -10,7 +10,7 @@ class Challenges
 
         // load challenges
         $this->counter();
-        // $this->beanCounter();
+        $this->beanCounter();
         // $this->bike();
     }
 
